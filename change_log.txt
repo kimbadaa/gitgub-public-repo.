@@ -1,0 +1,1 @@
+Sun May 11 00:32:46 KST 2025: Changed permission for private.sh
